@@ -11,4 +11,9 @@ Hướng dẫn chạy code:
 - Mở NetBeans, chọn File, chọn Open Project, chọn folder shoes_store_final, cuối cùng thêm những thư viện được yêu cầu.
 
 Link ứng dụng web đã triển khai: https://stockandstock.onrender.com/StockAndStock/
+
+Tài khoản admin để test chức năng:
+- email: abc1@gmail.com
+- pass: 123456
+
 Lần đầu load ứng dụng web được triển khai sẽ hơi lâu mong thầy thông cảm cho nhóm em ạ.
